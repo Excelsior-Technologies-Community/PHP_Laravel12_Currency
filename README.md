@@ -378,7 +378,3 @@ PHP_Laravel12_Currency/
 --- 
 
 Your PHP_Laravel12_Currency Project is now ready!
-<<<<<<< HEAD
-
-=======
->>>>>>> development
